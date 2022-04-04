@@ -1,0 +1,3 @@
+bread 2
+cheese 4
+yam 50
